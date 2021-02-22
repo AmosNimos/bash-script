@@ -1,0 +1,1 @@
+sleep 0.5 && xdotool type --clearmodifiers 'citiusaltiusfortius' && xdotool key KP_Enter
