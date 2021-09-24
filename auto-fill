@@ -1,1 +1,1 @@
-sleep 0.5 && xdotool type --clearmodifiers 'text-here' && xdotool key KP_Enter
+sleep 0.5 && xdotool type --clearmodifiers "$1" && xdotool key KP_Enter
